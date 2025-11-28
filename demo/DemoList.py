@@ -157,3 +157,4 @@ print("列表deepcopy:", list_copy3)
 # 列表嵌套
 list3 = [1, 2, [1, 2, 3]]
 print("列表嵌套:", list3[2][2])  # 输出3
+
